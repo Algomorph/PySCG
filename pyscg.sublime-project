@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/algomorph/Factory/pyscg"
+		}
+	],
+	"build_systems":
+	[
+		{
+		 "name": "unittest-discover",
+		 "shell_cmd": "python -m unittest discover ${project_path}"
+		}
+	],
+	"tabSize": "2",
+	"translateTabsToSpaces": "true"
+}
